@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../NormalJava/NormalJava.iml" filepath="$PROJECT_DIR$/../NormalJava/NormalJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC0/SpringMVC0.iml" filepath="$PROJECT_DIR$/../SpringMVC0/SpringMVC0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diary.iml" filepath="$PROJECT_DIR$/diary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../email/email.iml" filepath="$PROJECT_DIR$/../email/email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Gitee仓库/idea/practice/SpringMVC_rest/s.iml" filepath="$PROJECT_DIR$/../../Gitee仓库/idea/practice/SpringMVC_rest/s.iml" />
+    </modules>
+  </component>
+</project>

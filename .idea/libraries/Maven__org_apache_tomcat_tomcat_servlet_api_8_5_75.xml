@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.tomcat:tomcat-servlet-api:8.5.75">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java web/repository/org/apache/tomcat/tomcat-servlet-api/8.5.75/tomcat-servlet-api-8.5.75.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Java web/repository/org/apache/tomcat/tomcat-servlet-api/8.5.75/tomcat-servlet-api-8.5.75-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Java web/repository/org/apache/tomcat/tomcat-servlet-api/8.5.75/tomcat-servlet-api-8.5.75-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

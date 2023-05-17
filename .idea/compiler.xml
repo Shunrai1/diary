@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringMVC0" />
+        <module name="s" />
+        <module name="ajax" />
+        <module name="NormalJava" />
+        <module name="email" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ajax" target="1.8" />
+      <module name="ajax1" target="1.8" />
+      <module name="CourseManagement" target="1.8" />
+      <module name="diary" target="1.8" />
+      <module name="diary01" target="1.8" />
+      <module name="email" target="1.8" />
+      <module name="email验证" target="1.8" />
+      <module name="NormalJava" target="1.8" />
+      <module name="s" target="1.8" />
+      <module name="SpringMVC0" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
